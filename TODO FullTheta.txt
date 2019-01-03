@@ -1,0 +1,3 @@
+- "New" doesn't unlock graph at the moment ?
+- Allow switching between highlighted canonical regions using arrow keys and a menu option
+
