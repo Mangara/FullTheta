@@ -2,7 +2,7 @@
 
 A graphical tool for drawing Theta and Yao graphs.
 
-
+![A preview of the GUI](FullTheta.png?raw=true "A preview of the GUI")
 
 ## Getting Started
 
